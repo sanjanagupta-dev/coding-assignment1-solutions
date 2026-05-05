@@ -6,10 +6,10 @@
 - Time Complexity: O(N)
 
 ## Example
-**Input:**
+Input:
 abca
 
-**Output:**
+Output:
 6
 
 ## Problem 2: Array Transformation Cost Minimization
@@ -18,12 +18,12 @@ abca
 - Time Complexity: O(N log N)
 
 ## Example
-**Input:**
-5
-2 4 6 8 10
+Input:
+5  <br>
+2 4 6 8 10  <br>
 2
 
-**Output:**
+Output:
 6
 
 ## Author
